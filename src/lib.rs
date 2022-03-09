@@ -16,6 +16,12 @@
 // Copyright (C) 2022-2022 Fuwn <contact@fuwn.me>
 // SPDX-License-Identifier: GPL-3.0-only
 
+//! # senpy-rs
+//!
+//! A wrapper of The Senpy Club API, which is a wrapper of the
+//! [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+//! repository.
+
 #![deny(
   warnings,
   nonstandard_style,
