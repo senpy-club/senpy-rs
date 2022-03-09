@@ -47,6 +47,7 @@ Usage
 .. code-block:: toml
 
   # Cargo.toml
+
   [dependencies]
   senpy = "0.1.2"
 
