@@ -2,10 +2,11 @@
 
 [package]
 name = "senpy"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Fuwn <fuwnzy@gmail.com>"]
 edition = "2021"
 description = "The Senpy Club API Wrapper"
+documentation = "https://docs.rs/senpy/"
 readme = "README.rst"
 homepage = "https://github.com/senpy-club/senpy-rs"
 repository = "https://github.com/senpy-club/senpy-rs"
