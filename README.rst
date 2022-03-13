@@ -5,6 +5,8 @@ A wrapper of The Senpy Club API, which is a wrapper of the
 `cat-milk/Anime-Girls-Holding-Programming-Books <https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>`_
 repository.
 
+Need an API wrapper for another language? Check out `senpy-ffi <https://github.com/senpy-club/senpy-ffi>`_!
+
 Quick links
 ^^^^^^^^^^^
 
