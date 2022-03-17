@@ -22,5 +22,4 @@ reqwest = { version = "0.11.9", features = ["json", "blocking"] }
 const_format = "0.2.22"
 
 # Serialization
-serde = "1.0.136"
-serde_derive = "1.0.136"
+serde = { version = "1.0.136", features = ["derive"] }
