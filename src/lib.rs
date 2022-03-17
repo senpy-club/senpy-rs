@@ -50,7 +50,7 @@ pub const SENPY_CLUB_API_URL: &str = const_format::formatcp!(
 );
 
 /// The response of the <https://api.senpy.club/v2/random> route
-#[derive(serde_derive::Serialize, serde_derive::Deserialize, Debug)]
+#[derive(serde::Serialize, serde::Deserialize, Debug)]
 pub struct Random {
   pub language: String,
   pub image:    String,
